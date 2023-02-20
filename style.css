@@ -221,18 +221,18 @@
   margin-top: 40px;
 }
 
-.contato a{
+.contato .btn-primary{
   margin: 20px;
-}
-
-.contato p{
-  margin-top: 20px;
-  margin-bottom: 40px;
 }
 
 .email{
   text-decoration: underline;
   color: #455d7a;
+}
+
+.contato p{
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
 
 footer{
